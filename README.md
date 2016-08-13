@@ -11,7 +11,7 @@ It provides
 - A SVG badge that works well from static mediums
   (like GitHub README pages)
 
-Originally forked from [rauchg](https://github.com/rauchg/slackin)
+Originally forked from [rauchg](https://github.com/rauchg/slackin).
 
 Updated by [87maza](https://github.com/87maza/slacker) to get the Heroku deployment to work. 
 
